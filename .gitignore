@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+demo.log
+/demo.log
+demo.log
